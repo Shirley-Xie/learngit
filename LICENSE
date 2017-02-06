@@ -2,6 +2,5 @@ git log
 git log --pretty=online(commit)
 git reflog （all）
 cat xxx (look content)
-
 git reset --hard HAED^^
 git reset --hard HAED~100
