@@ -1,9 +1,13 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+Git has atable i.
 Git tracks changes of files.
-My stupid boss still prefers SVN.
+My  mu
+ndex called stage
+ll prefersstupid boss sti SVN.
 stupid boss 
-who???
+who??? mu
+ndex called stage
+ll prefers
 ?
 ?
